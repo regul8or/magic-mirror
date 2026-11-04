@@ -88,6 +88,20 @@ Everything lives in `mirror/config.js`:
 └── test/                            ← plain-Node smoke tests and the DOM stub
 ```
 
+## Screenshots
+
+### Clock and Daylight
+
+![Clock and Daylight](clock.png "Clock and Daylight")
+
+### Calendar
+
+![Calendar](calendar.png "Calendar")
+
+### Weather
+
+![Weather](weather.png "Weather")
+
 ## Attribution
 
 This project was built using AI-assisted development.\
