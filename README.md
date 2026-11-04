@@ -1,6 +1,6 @@
 # Mirror
 
-**Document Last Updated**: 2026-11-04
+**Document Last Updated**: 2026-11-04\
 **Project Status**: Production
 
 A MagicMirror² installation that turns a hallway mirror into a personal assistant: time, daylight, a marked calendar, an agenda of upcoming items, and current and daily weather.
@@ -90,6 +90,6 @@ Everything lives in `mirror/config.js`:
 
 ## Attribution
 
-This project was built using AI-assisted development.
-regul8or set the requirements and direction; AI agents did the implementation work.
+This project was built using AI-assisted development.\
+regul8or set the requirements and direction; AI agents did the implementation work.\
 Commits with AI contributions are marked appropriately.
